@@ -4,17 +4,13 @@
 This repository contains a collection of projects that apply machine learning techniques to solve various cybersecurity challenges. The projects demonstrate how ML models can be used to detect threats, analyze malware, identify network intrusions, and perform other security-related tasks. Each project focuses on a specific problem in cybersecurity and leverages machine learning algorithms to provide a data-driven solution.
 
 # How to Use
-Clone the repository:
 ```bash
-Copy code
+# Clone the repository:
 git clone https://github.com/yourusername/Practical-ML-For-Cybersecurity.git
-Install the required dependencies:
 
-Copy code
+# Install the required dependencies:
 pip install -r requirements.txt
-Run the desired project script:
-
-Copy code
+# Run the desired project script:
 python <script_name>.py [options]
 ```
 Datasets
