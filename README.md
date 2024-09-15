@@ -1,12 +1,12 @@
 # Practical-ML-For-Cybersecurity
 
-Overview
+# Overview
 This repository contains a collection of projects that apply machine learning techniques to solve various cybersecurity challenges. The projects demonstrate how ML models can be used to detect threats, analyze malware, identify network intrusions, and perform other security-related tasks. Each project focuses on a specific problem in cybersecurity and leverages machine learning algorithms to provide a data-driven solution.
 
-Projects
+# Projects
 Malware Classification Using Machine Learning
 
-Description: This project focuses on classifying malware into different types using supervised learning algorithms. Features are extracted from file metadata, behavior, and binary code.
+# Description: This project focuses on classifying malware into different types using supervised learning algorithms. Features are extracted from file metadata, behavior, and binary code.
 Technologies: Python, scikit-learn, pandas, NumPy
 Key Features:
 Data preprocessing of malware samples
