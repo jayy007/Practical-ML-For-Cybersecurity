@@ -3,6 +3,8 @@
 # Overview
 This repository contains a collection of projects that apply machine learning techniques to solve various cybersecurity challenges. The projects demonstrate how ML models can be used to detect threats, analyze malware, identify network intrusions, and perform other security-related tasks. Each project focuses on a specific problem in cybersecurity and leverages machine learning algorithms to provide a data-driven solution.
 
+This repository shows more than twenty different practical exercises applied to real data sets to solve different problems within the field of information security through the application of Machine Learning techniques.
+
 # How to Use
 ```bash
 # Clone the repository:
@@ -23,12 +25,6 @@ Spam Email Dataset: A collection of spam and non-spam emails used for text class
 Implementing Transfer Learning for Malware Detection
 Exploring Graph Neural Networks (GNNs) for Botnet Detection
 Expanding phishing detection models using deep learning
-# Contributions
-Contributions are welcome! If you have suggestions, improvements, or want to add a new project, feel free to submit a pull request or raise an issue.
-
-This outline highlights the practical application of machine learning in cybersecurity, helping showcase how the repository's projects contribute to detecting and preventing security threats. Adjust the project descriptions and technologies to reflect your actual work.
-
-This repository shows more than twenty different practical exercises applied to real data sets to solve different problems within the field of information security through the application of Machine Learning techniques.
 
 The exercises are part of the UDEMY course [**_Machine Learning from scratch: Real projects in Python 3._**](https://www.udemy.com/course/machine-learning-desde-cero/?referralCode=008FE3DCE6F9C5EDA6DC)
 
@@ -85,4 +81,9 @@ The downloaded files can be viewed and run using the [Jupyter Notebook](https://
 # Downloading the datasets
 
 * [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo07): Set of SPAM and legitimate emails.
-* [NSL-KD
+* [NSL-KD]
+
+# Contributions
+Contributions are welcome! If you have suggestions, improvements, or want to add a new project, feel free to submit a pull request or raise an issue.
+
+This outline highlights the practical application of machine learning in cybersecurity, helping showcase how the repository's projects contribute to detecting and preventing security threats. Adjust the project descriptions and technologies to reflect your actual work.
