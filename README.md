@@ -5,17 +5,18 @@ This repository contains a collection of projects that apply machine learning te
 
 # How to Use
 Clone the repository:
-bash
+```bash
 Copy code
 git clone https://github.com/yourusername/Practical-ML-For-Cybersecurity.git
 Install the required dependencies:
-bash
+
 Copy code
 pip install -r requirements.txt
 Run the desired project script:
-bash
+
 Copy code
 python <script_name>.py [options]
+```
 Datasets
 NSL-KDD: A popular dataset used for network intrusion detection.
 Malware Samples: A dataset containing different malware binaries for classification tasks.
